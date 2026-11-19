@@ -1,0 +1,10 @@
+# Normalize line endings so the source builds on Linux/macOS too.
+* text=auto eol=lf
+
+*.c    text eol=lf
+*.h    text eol=lf
+Makefile text eol=lf
+*.md   text eol=lf
+
+# Binary files
+*.exe  binary

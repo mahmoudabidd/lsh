@@ -1,0 +1,26 @@
+# Build output
+lsh
+lsh.exe
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Debug symbols
+*.dSYM/
+*.pdb
+*.ilk
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+.clangd/
+compile_commands.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
